@@ -1,4 +1,4 @@
-# Sales Performance Analyst
+# Sales Performance Analysis
 <p>This repository contains the results of a project based internship - business intelligence analyst by Rakamin Academy x Bank Muamalat.</p>
 
 <h2>Project Overview:</h2>
